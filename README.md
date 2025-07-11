@@ -15,6 +15,7 @@ git clone https://github.com/your-username/AIDetect-X.git
 cd AIDetect-X
 pip install -r requirements.txt
 
-Usage
+Usage:
 python main.py scan-email /path/to/your/email.txt
+
 python main.py face-check /path/to/your/face.png
