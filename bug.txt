@@ -1,0 +1,1 @@
+python -c "from utils.face_utils import encode_known_faces; encode_known_faces()"

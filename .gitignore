@@ -1,0 +1,11 @@
+#ignore large files
+data/emails/*.csv
+
+#ignore python files
+__pycache__/
+*.pyc
+*.pk.
+
+#virtual env
+venv/
+
